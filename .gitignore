@@ -1,0 +1,17 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+
+# Logs
+*.log

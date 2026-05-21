@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pymongo
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
+pydantic[email]
+pydantic-settings
+python-socketio
+opencv-python-headless
+mediapipe
+ultralytics
+numpy
+pandas
+scikit-learn
